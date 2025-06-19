@@ -1,0 +1,54 @@
+{
+  "restaurant_id": "R0018",
+  "restaurant_name": "Chick-fil-A",
+  "menu": [
+    {
+      "Item": "Chicken Sandwich",
+      "Calories": 440.0,
+      "Fat (g)": 19.0,
+      "Saturated Fat (g)": 4.0,
+      "Cholesterol (mg)": 60.0,
+      "Sodium (mg)": 1350.0,
+      "Carbs (g)": 41.0,
+      "Fiber (g)": 2.0,
+      "Sugar (g)": 6.0,
+      "Protein (g)": 29.0
+    },
+    {
+      "Item": "Spicy Chicken Sandwich",
+      "Calories": 460.0,
+      "Fat (g)": 19.0,
+      "Saturated Fat (g)": 4.0,
+      "Cholesterol (mg)": 65.0,
+      "Sodium (mg)": 1700.0,
+      "Carbs (g)": 45.0,
+      "Fiber (g)": 2.0,
+      "Sugar (g)": 6.0,
+      "Protein (g)": 29.0
+    },
+    {
+      "Item": "Waffle Fries (Medium)",
+      "Calories": 420.0,
+      "Fat (g)": 24.0,
+      "Saturated Fat (g)": 3.5,
+      "Cholesterol (mg)": 0.0,
+      "Sodium (mg)": 370.0,
+      "Carbs (g)": 45.0,
+      "Fiber (g)": 5.0,
+      "Sugar (g)": 0.0,
+      "Protein (g)": 5.0
+    },
+    {
+      "Item": "Grilled Chicken Sandwich",
+      "Calories": 380.0,
+      "Fat (g)": 12.0,
+      "Saturated Fat (g)": 2.0,
+      "Cholesterol (mg)": 70.0,
+      "Sodium (mg)": 770.0,
+      "Carbs (g)": 36.0,
+      "Fiber (g)": 3.0,
+      "Sugar (g)": 9.0,
+      "Protein (g)": 28.0
+    }
+  ]
+}
